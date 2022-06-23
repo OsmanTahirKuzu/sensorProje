@@ -1,0 +1,9 @@
+proje dosyasına girince 2 ayrı terminal oluşturun
+1.Terminal için
+   -Dosyaların içine girmeden npm i komutunu çalıştırın
+2.Terminal için sırasıyla
+   -cd backend
+   -node server.js komutunu çalıştırın
+2.Terminal sorunsuz başladığında
+1.Terminalde 
+    -npm start komutunu çalıştırın
